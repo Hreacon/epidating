@@ -1,0 +1,15 @@
+.datingform {
+  width:400px;
+  padding:10px;
+  border:1px solid black;
+  border-radius: 10px;
+}
+.datingform form label {
+  width:25%;
+  display: inline-block;
+  font-size: 1.25em;
+}
+.datingform form input {
+  width:70%;
+  font-size: 1.25em;
+}
